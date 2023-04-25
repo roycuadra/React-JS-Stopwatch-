@@ -2,7 +2,7 @@
 
 Welcome to my awesome project! Here's a screenshot of the application:
 
-![Application Screenshot](pic.jpg)
+![Application Screenshot](https://github.com/roycua/React-JS-Stopwatch-/blob/main/Pic.jpg)
 
 ## Available Scripts
 
