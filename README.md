@@ -1,4 +1,4 @@
-## My Project
+## My Project  [Live Demo](https://react-js-stopwatch.netlify.app/)
 
 Welcome to my awesome project! Here's a screenshot of the application:
 
