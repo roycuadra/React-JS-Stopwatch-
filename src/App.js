@@ -58,7 +58,7 @@ function App() {
           <BtnComponent status={status} resume={resume} reset={reset} stop={stop} start={start} />
         </div>
         <footer className="footer" style={{textAlign: "center"}}>
-  Created by <a href="https://github.com/roycua" target="_blank" rel="noopener noreferrer" style={{color: "blue", textDecoration: "none"}}>Roy Cuadra</a> &copy; 2023
+  Created by <a href="https://github.com/roycuadra" target="_blank" rel="noopener noreferrer" style={{color: "blue", textDecoration: "none"}}>Roy Cuadra</a> &copy; 2023
 </footer>
 
 
